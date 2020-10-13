@@ -1,0 +1,3 @@
+[submodule "openbw"]
+	path = openbw
+	url = https://github.com/OpenBW/openbw.git
