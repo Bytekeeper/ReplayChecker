@@ -11,6 +11,10 @@ add_executable(ReplayChecker
   ReplayChecker.cpp
 )
 
+add_executable(ReplayInfo
+  ReplayInfo.cpp
+)
+
 install(TARGETS ReplayChecker
   RUNTIME DESTINATION bin
   LIBRARY DESTINATION lib
